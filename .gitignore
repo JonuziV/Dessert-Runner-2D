@@ -35,3 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Templates/CIND.otf
+Templates/Steam-Punk-Game-Diagram.xml
+Templates/Template-Story-States.xml
+Templates/TheMansion.xml
